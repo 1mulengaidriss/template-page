@@ -1,0 +1,73 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(photos/dydy.JPG);
+    margin: 1%;
+    width: 100%;
+}
+
+
+header{
+    font-size: 400%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    margin: 1% 5%;
+    padding: 1% 1%;
+    color: rgb(252, 193, 0);
+}
+span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 40%;
+    color: orangered;
+}
+h1{
+    font-size: 300%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-weight: bold;
+    font-style: italic;
+    color: orangered;
+    text-decoration: underline;
+}
+.first-body{
+    text-align: center;
+    font-weight: bold;
+    box-sizing: border-box;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.123);
+    border-radius: 20px;
+    color: white;
+}
+.second-body{
+    border-radius: 1%;
+    align-items: center;
+    color: white;
+}
+img{
+    border-radius: 10%;
+    align-items: center;
+    margin: 1%;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0;
+    position: relative;
+}
+img:hover{
+    color: orangered;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: unset;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: orangered;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+small{
+    font-size: 90%;
+    font-weight: bold;
+    color: white;
+}
